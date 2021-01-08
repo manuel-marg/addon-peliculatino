@@ -5,7 +5,7 @@ const manifest = {
     "version": "1.0.0",
     "name": "PelicuLatino",
     "description": "¡Películas en excelente calidad con audio latino!",
-    "icon": "https://manuel-marg.github.io/PelicuLatino/images/LogoPelicuLatino.png",
+    "icon": "https://manuel-marg.github.io/Report-Bugs-PelicuLatino/images/LogoPelicuLatino.png",
     "resources": [
         "catalog",
         "stream"

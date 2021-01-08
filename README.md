@@ -8,7 +8,7 @@ This is an addon that allows users of the Stremio platform to watch movies in La
  - All movies are available in Latin Spanish.
  - The audio quality is excellent.
 
-![enter image description here](https://manuel-marg.github.io/PelicuLatino/images/LogoPelicuLatino.png)
+![addon-peliculatino Logo](https://manuel-marg.github.io/Report-Bugs-PelicuLatino/images/LogoPelicuLatino.png)
 
 ## How to install addon-peliculatino in Stremio?
 Follow the next steps:
@@ -21,7 +21,7 @@ Follow the next steps:
 
 4. Then a window will open and click on Install Addon.
 
-Note: Soon the Addon will be sent to Stremio to be published in the list of addons of the community.*
+Note: Soon the Addon will be sent to Stremio to be published in the list of addons of the community.
 
 ## Report bugs
 If you find any error in our addon with any movie. Please let us know through a small contact form that we have available at the following link:
